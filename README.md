@@ -28,3 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamton140&show_icons=true&locale=en" alt="phamton140" /></p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d57irr2qnocglt4mcoyylkk6vi&cover_image=true&theme=default&bar_color=2ca098&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
