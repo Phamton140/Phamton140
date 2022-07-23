@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/genesissarantef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="genesissarantef" height="40" width="50" /></a>
+<a href="https://twitter.com/genesissarantef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="genesissarantef" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/g%C3%A9nesis-melquisedec-sarante-feliz-558ba4154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="génesis melquisedec sarante feliz" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100074217801231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="melquisedec sarfeliz" height="30" width="40" /></a>
 <a href="https://instagram.com/melquisedec_sarfeliz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melquisedec_sarfeliz" height="30" width="40" /></a>
