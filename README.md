@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Génesis Melquisedec Sarante Feliz</h1>
 <p align="left">
-<img src="https://github.com/Phamton140/Phamton140/blob/main/melquisedec.jpeg" width="250px" height="300px"/><img src="https://github.com/Phamton140/Phamton140/blob/main/melquisedec.jpeg" width="250px" height="300px"/>
+<img src="https://github.com/Phamton140/Phamton140/blob/main/melquisedec.jpeg" width="250px" height="300px"/><img src="https://github.com/Phamton140/Phamton140/blob/main/melquisdec_piano.jpeg" width="250px" height="300px"/>
 <img src="https://github.com/Phamton140/Phamton140/blob/main/melquisedec.jpeg" width="250px" height="300px"/>
 <img src="https://github.com/Phamton140/Phamton140/blob/main/melquisedec.jpeg" width="250px" height="300px"/>
 </p>
