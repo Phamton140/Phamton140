@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Génesis Melquisedec Sarante Feliz</h1>
 <p align="left">
 <img src="https://github.com/Phamton140/Phamton140/blob/main/melquisedec.jpeg" width="250px" height="300px"/><img src="https://github.com/Phamton140/Phamton140/blob/main/melquisdec_piano.jpeg" width="250px" height="300px"/>
-<img src="https://github.com/Phamton140/Phamton140/blob/main/melquisedec.jpeg" width="250px" height="300px"/>
+<img src="https://github.com/Phamton140/Phamton140/blob/main/melquisedec_formal.jpeg" width="250px" height="300px"/>
 <img src="https://github.com/Phamton140/Phamton140/blob/main/melquisedec.jpeg" width="250px" height="300px"/>
 </p>
 <h3 align="center">I am a web developer. I have more than 4 years in the world of programming and I do not regret having chosen this path. Despite the time, I still enjoy this risky life and I keep fighting bugs every day</h3>
